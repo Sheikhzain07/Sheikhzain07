@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **HTML ,CSS ,JavaScript and React**
 
-- 👨‍💻 All of my projects are available at [sheikh-zainuddin](https://sheikh-zainuddin.netlify.app)
+- 👨‍💻 All of my projects are available at [sheikh-zainuddin](https://sheikh-zain-portfolio.netlify.app/)
 
 - 📫 How to reach me **sheikhzain459@gmail.com**
 
