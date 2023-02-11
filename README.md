@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NodeJS, Express**
 
-- 💬 Ask me about **HTML ,CSS ,JavaScript and React**
+- 💬 Ask me about **HTML ,CSS ,JavaScript and ReactJS**
 
 - 👨‍💻 All of my projects are available at [sheikh-zainuddin](https://sheikh-zain-portfolio.netlify.app/)
 
