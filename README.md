@@ -47,7 +47,13 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sheikhzain07&theme=dark&background=000000)](https://git.io/streak-stats) <br/><br/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sheikhzain07&theme=dark&background=000000)](https://git.io/streak-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhzain07&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sheikhzain07&show_icons=true&locale=en&layout=compact" alt="sheikhzain07" /></p>
  -->
+---
+[![Zain's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sheikhzain07&theme=redical&background=000000)](https://github.com/sheikhzain07/github-readme-activity-graph)
+<!-- <h3 align="center"> 
+  Visitor count <br>
+  <img src="https://profile-counter.glitch.me/sheikhzain07/count.svg" />
+</h3> -->
