@@ -25,11 +25,11 @@
 
 
 ### :woman_technologist: About Me :
-- 🌱 I’m currently learning **NodeJS, Express.js**
+- 🌱 I’m currently developing **React Apps**
 
 - 💬 Ask me about **HTML ,CSS ,JavaScript and ReactJS**
 
-- 👨‍💻 All of my projects are available at [sheikh-zainuddin](https://sheikh-zain-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Website](https://sheikh-zain-portfolio.netlify.app/)
 
 - 📫 How to reach me **sheikhzain459@gmail.com**
 
